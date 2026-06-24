@@ -1,0 +1,5 @@
+dataset_size,query,regime,cold_latency_ms,min,median,mean,p95,max,stddev
+1M_Run2,Q_naive_wide,warm,28.16,10.45,16.15,17.4,23.07,35.8,4.06
+1M_Run2,Q_context_wide,warm,30.57,20.42,24.09,24.97,28.94,53.01,4.26
+1M_Run2,Q_naive_narrow,warm,48.35,21.68,27.28,27.71,34.79,46.6,4.2
+1M_Run2,Q_context_narrow,warm,47.51,35.15,44.59,46.46,61.56,67.39,6.92
