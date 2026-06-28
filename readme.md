@@ -17,6 +17,7 @@ datasets/                Generated CSV datasets (input for ClickHouse)
 
 benchmark_code/
 └── benchmark.py          Script for automated query latency measurement (HTTP, ClickHouse)
+└── benchmark_mysql.py          Script for automated query latency measurement (MySQL)
 
 benchmark_logs/          Raw console output of individual benchmark sessions (before aggregation)
 
