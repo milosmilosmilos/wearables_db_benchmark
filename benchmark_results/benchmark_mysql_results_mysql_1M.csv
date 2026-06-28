@@ -1,0 +1,5 @@
+dataset_size,query,regime,cold_latency_ms,min,median,mean,p95,max,stddev
+mysql_1M,Q_naive_wide,warm,939.43,755.96,848.44,847.67,922.41,929.91,40.62
+mysql_1M,Q_context_wide,warm,1382.92,1227.89,1318.94,1323.48,1407.81,1524.36,55.7
+mysql_1M,Q_naive_narrow,warm,4481.35,4144.38,4563.93,4557.54,4756.7,4907.8,145.95
+mysql_1M,Q_context_narrow,warm,5125.32,4875.44,5221.76,5247.05,5502.65,5988.25,180.27
